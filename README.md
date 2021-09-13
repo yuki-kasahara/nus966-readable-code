@@ -3,8 +3,8 @@
 使用言語：Python
 
 仕様１
-- OutputWord.pyを実行する
+- Task1.pyを実行する
 
-仕様２
+仕様３
 - "上手"という単語をtextファイル（DictionaryData.txt）に保存。
-- open関数を使ってデータファイルの呼び出し。
+- Task3.pyでopen関数を使ってデータファイルの呼び出し。
