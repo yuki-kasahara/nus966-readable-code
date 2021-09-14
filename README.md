@@ -7,4 +7,4 @@
 
 仕様３
 - "上手"という単語をtextファイル（DictionaryData.txt）に保存。
-- Task3.pyでopen関数を使ってデータファイルの呼び出し。
+- OutputDictinary.pyでopen関数を使ってデータファイルの呼び出し。
